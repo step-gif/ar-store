@@ -35,8 +35,8 @@ const products = [
     dimensions: "Երկ. 50սմ x Լայն. 55սմ x Բարձր. 80սմ",
     thumbColor: "#d1d5db",
     colors: [
-      { id: 'c4', name: "Բնական Կաղնի", hex: "#d4b895", glb: "/furniture.glb", usdz: "/furniture.usdz" },
-      { id: 'c5', name: "Սև Փայտ", hex: "#1f2937", glb: "/furniture.glb", usdz: "/furniture.usdz" }
+      { id: 'c4', name: "Բնական Կաղնի", hex: "#d4b895", glb: "/table.glb", usdz: "/table.usdz" },
+      { id: 'c5', name: "Սև Փայտ", hex: "#1f2937", glb: "/table.glb", usdz: "/table.usdz" }
     ]
   },
   {
@@ -47,8 +47,8 @@ const products = [
     dimensions: "Տրամագիծ՝ 80սմ, Բարձր. 45սմ",
     thumbColor: "#f3f4f6",
     colors: [
-      { id: 'c6', name: "Սպիտակ Մարմար", hex: "#f8fafc", glb: "/furniture.glb", usdz: "/furniture.usdz" },
-      { id: 'c7', name: "Սև Մարմար", hex: "#0f172a", glb: "/furniture.glb", usdz: "/furniture.usdz" }
+      { id: 'c6', name: "Սպիտակ Մարմար", hex: "#f8fafc", glb: "/coff_table.glb", usdz: "/coff_table.usdz" },
+      { id: 'c7', name: "Սև Մարմար", hex: "#0f172a", glb: "/coff_table.glb", usdz: "/coff_table.usdz" }
     ]
   }
 ];
